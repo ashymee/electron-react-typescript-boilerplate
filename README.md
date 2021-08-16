@@ -2,3 +2,24 @@
 
 how to use:
 clone this repository
+```bash
+git clone https://github.com/ashymee/electron-react-typescript-boilerplate.git && cd electron-react-typescript-boilerplate
+```
+
+install all packages needed,
+```bash
+# with yarn
+yarn install
+
+# or with npm
+npm install
+```
+
+then run it,
+```bash
+# with yarn
+yarn start
+
+# or with npm
+npm run start
+```
