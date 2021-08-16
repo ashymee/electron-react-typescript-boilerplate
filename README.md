@@ -1,6 +1,7 @@
 # Electron with React, Typescript and Tailwind Boilerplate
 
 this boilerplate based on [this article](https://www.electronforge.io/guides/framework-integration/react-with-typescript)
+
 further more tailwind setup, please read [this guide](https://tailwindcss.com/docs/guides/create-react-app)
 
 how to use:
