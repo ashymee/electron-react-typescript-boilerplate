@@ -31,4 +31,4 @@ npm run start
 
 this boilerplate based on [this article](https://www.electronforge.io/guides/framework-integration/react-with-typescript)
 
-further more tailwind setup, please read [this guide](https://tailwindcss.com/docs/guides/create-react-app)
+further more tailwind setup on react-app, please follow [this guide](https://tailwindcss.com/docs/guides/create-react-app)
