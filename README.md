@@ -29,4 +29,4 @@ npm run start
 
 ---
 
-you can read [this source](https://www.electronforge.io/guides/framework-integration/react-with-typescript) to manually install electron with cra-ts, and tailwind in [official site](https://tailwindcss.com/docs/guides/create-react-app)
+you can read [this documentation](https://www.electronforge.io/guides/framework-integration/react-with-typescript) to manually install electron with cra-ts, and tailwind on [the official site](https://tailwindcss.com/docs/guides/create-react-app).
